@@ -13,7 +13,7 @@
   &nbsp;
   <a href="https://www.hackerrank.com/dev_mayank8" target="_blank"><img src="https://img.icons8.com/?size=100&id=OUPsEPLKIebZ&format=png&color=000000" alt="HackerRank" width="40" height="40"/></a>
   &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/cemayank8/" target="_blank"><img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" alt="GeeksforGeeks" width="40" height="40"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/mayanksystems" target="_blank"><img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" alt="GeeksforGeeks" width="40" height="40"/></a>
 </p>
 
 ---
