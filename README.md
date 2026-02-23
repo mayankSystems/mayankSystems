@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mayanksystems/" target="_blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="40" height="40"/></a>
   &nbsp;
-  <a href="https://github.com/mayankSystems" target="_blank"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://github.com/mayankSystems/" target="_blank"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40" height="40"/></a>
   &nbsp;
   <a href="https://leetcode.com/u/mayankSystems/" target="_blank"><img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode" width="40" height="40"/></a>
   &nbsp;
@@ -37,7 +37,7 @@
 At **HCLSoftware**, I've been working on enterprise-grade backend systems:
 
 - 🔧 Designed **10+ RESTful APIs** serving **50,000+ daily transactions** with **99.95% uptime**
-- 👥 Led a **5-developer team** in scrum delivering an End-of-Day reporting solution for **HDFC Bank**, cutting report generation time by **60%**
+- 👥 Led a **5-developer team** in Scrum delivering End-of-Day reporting solution for **HDFC Bank**, cutting report generation time by **60%**
 - 📨 Built event & notification mechanisms in **HCL UnO** using Kafka to automate job/jobstream workflows
 - 🗄️ Introduced **PostgreSQL** support in HWA, expanding SQL compatibility by **40%** across 200+ tables
 - 🔄 Migrated billing pipeline to a REST API-based solution, reducing processing time by **45%**
@@ -48,21 +48,57 @@ At **HCLSoftware**, I've been working on enterprise-grade backend systems:
 
 ## 🚀 Tech Stack
 
+### 💻 Languages
 <p align="center">
   <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" width="48" height="48"/></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="48" height="48"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="48" height="48"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" alt="Kubernetes" width="48" height="48"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48"/></a>
+  <a href="https://www.cplusplus.com" target="_blank"><img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" alt="C++" width="48" height="48"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="48" height="48"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48" height="48"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/></a>
+</p>
+
+### 🧰 Frameworks & Libraries
+<p align="center">
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" width="48" height="48"/></a>
+  <a href="https://spring.io/projects/spring-cloud" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Cloud" width="48" height="48"/></a>
+  <a href="https://spring.io/projects/spring-security" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Security" width="48" height="48"/></a>
+  <a href="https://hibernate.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" alt="Hibernate" width="48" height="48"/></a>
+  <a href="https://junit.org/junit5/" target="_blank"><img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" alt="JUnit" width="48" height="48"/></a>
+  <a href="https://site.mockito.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/test-tube.png" alt="Mockito" width="48" height="48"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="48" height="48"/></a>
+</p>
+
+### 🗄️ Databases
+<p align="center">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="48" height="48"/></a>
+  <a href="https://www.oracle.com/database/" target="_blank"><img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle SQL" width="48" height="48"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48"/></a>
+</p>
+
+### ☁️ DevOps, Cloud & Infrastructure
+<p align="center">
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="48" height="48"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" alt="Kubernetes" width="48" height="48"/></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48"/></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="48" height="48"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" width="48" height="48"/></a>
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="center">
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/></a>
   <a href="https://maven.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="Maven" width="48" height="48"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" width="48" height="48"/></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="48" height="48"/></a>
+  <a href="https://swagger.io/" target="_blank"><img src="https://img.icons8.com/?size=100&id=rdKnEbJ6MdRY&format=png&color=000000" alt="Swagger" width="48" height="48"/></a>
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/></a>
+  <a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="48" height="48"/></a>
+  <a href="https://prometheus.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="48" height="48"/></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" width="48" height="48"/></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="48" height="48"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/></a>
 </p>
 
 ---
