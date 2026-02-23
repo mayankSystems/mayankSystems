@@ -37,7 +37,7 @@
 At **HCLSoftware**, I've been working on enterprise-grade backend systems:
 
 - 🔧 Designed **10+ RESTful APIs** serving **50,000+ daily transactions** with **99.95% uptime**
-- 👥 Led a **5-developer team** in Agile/Scrum delivering an End-of-Day reporting solution for **HDFC Bank**, cutting report generation time by **60%**
+- 👥 Led a **5-developer team** in scrum delivering an End-of-Day reporting solution for **HDFC Bank**, cutting report generation time by **60%**
 - 📨 Built event & notification mechanisms in **HCL UnO** using Kafka to automate job/jobstream workflows
 - 🗄️ Introduced **PostgreSQL** support in HWA, expanding SQL compatibility by **40%** across 200+ tables
 - 🔄 Migrated billing pipeline to a REST API-based solution, reducing processing time by **45%**
