@@ -20,8 +20,9 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🌍 Based in **New Delhi, India**
-- 💼 **Senior Software Engineer @ HCLSoftware** (Aug 2022 – Present)
+- 🌍 From New Delhi, India · Currently in Bengaluru, Karnataka
+- 💼 Software Engineer @ PayU Digital Labs Pvt. Ltd. (Mar 2026 – Present)
+- 💼 Previously Senior Software Engineer @ HCLSoftware (Aug 2022 – Mar 2026)
 - 🚀 Backend Development enthusiast with expertise in building **high-throughput, distributed systems**
 - 🛠️ Skilled in **Java · Spring Boot · Microservices · Kafka · Docker · Kubernetes · AWS · SQL · MongoDB**
 - 🧪 Strong advocate for **TDD**, clean code, and SOLID principles — maintaining **85%+ code coverage**
