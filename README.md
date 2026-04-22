@@ -12,7 +12,7 @@ Backend engineer with 4+ years building high-availability, high-throughput syste
 
 ---
 
-## What I Build
+## 🏗️ What I Build
 
 Systems that handle real load with real consequences:
 
@@ -24,7 +24,7 @@ Systems that handle real load with real consequences:
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 **Languages** · Java 17+ · Python · SQL · Bash
 
@@ -40,10 +40,10 @@ Systems that handle real load with real consequences:
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### [Finvista Nexus](https://github.com/mayankSystems/finvista-nexus) — Cloud-Native Banking Platform
-*Spring Boot · Spring Cloud · MySQL · Docker · OAuth2 · Spring Security · JUnit 5*
+🏷️ *Spring Boot · Spring Cloud · MySQL · Docker · OAuth2 · Spring Security · JUnit 5*
 
 Full microservices banking platform with three domain services (Accounts, Loans, Cards), API Gateway, and Config Server.
 
@@ -57,7 +57,7 @@ Full microservices banking platform with three domain services (Accounts, Loans,
 ---
 
 ### [Project Chess](https://github.com/mayankSystems/project-chess) — Chess Engine in Java
-*Java · Swing/AWT · OOP · Strategy / Factory / Observer Patterns · SOLID*
+🏷️ *Java · Swing/AWT · OOP · Strategy / Factory / Observer Patterns · SOLID*
 
 Complete chess engine with GUI, full rule enforcement, and clean domain design.
 
@@ -68,7 +68,7 @@ Complete chess engine with GUI, full rule enforcement, and clean domain design.
 
 ---
 
-## Career Highlights
+## 🎯 Career Highlights
 
 **PayU Digital Labs** — Software Engineer *(Mar 2026 – Present)*
 - Architecting fault-tolerant token lifecycle microservices (tokenization / detokenization / revocation) for PCI-DSS Token Vault across 50+ merchant integrations
@@ -84,7 +84,7 @@ Complete chess engine with GUI, full rule enforcement, and clean domain design.
 
 ---
 
-## Engineering Focus
+## 👨🏻‍💻 Engineering Focus
 
 Currently deepening expertise in:
 - **Payment systems security** — PCI-DSS, HSM-backed KMS, token vault design
@@ -93,7 +93,7 @@ Currently deepening expertise in:
 
 ---
 
-## Education & Credentials
+## 🎓 Education & Credentials
 
 🎓 **M.Tech** — NIT Warangal (GPA: 8.07/10)
 🎓 **B.Tech** — NSUT West Campus, GGSIPU (GPA: 8.40/10)
