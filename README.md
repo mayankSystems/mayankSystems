@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="#"><img width="60%" height="auto" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/></a>
+    <img src="github_cover.png" alt="mayankSystems Profile Banner" width="100%"/>
     <h1 align="center">Hi, I'm Mayank Gupta 👋</h1>
     <h3 align="center">Senior Backend Engineer from India 🇮🇳</h3>
 </p>
@@ -8,7 +8,7 @@
 
 Backend engineer with 4+ years building high-availability, high-throughput systems in fintech and enterprise automation. I design for scale, own outcomes end-to-end, and ship with measurable impact.
 
-📍 Bengaluru, India · [LinkedIn](https://linkedin.com/in/mayanksystems) · [Portfolio](https://mayankgupta-portfolio.vercel.app/) · [Email](mailto:ce.mayank8@gmail.com)
+📍 Bengaluru, India · [LinkedIn](https://linkedin.com/in/mayanksystems) · [Portfolio](https://mayankgupta-portfolio.vercel.app/) · [Email](mailto:ce.mayank8@gmail.com) · [LeetCode](https://leetcode.com/u/mayankSystems) · [HackerRank](https://www.hackerrank.com/profile/dev_mayank8) · [GfG](https://www.geeksforgeeks.org/profile/mayanksystems)
 
 ---
 
