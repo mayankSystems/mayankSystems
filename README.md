@@ -56,7 +56,7 @@ Full microservices banking platform with three domain services (Accounts, Loans,
 
 ---
 
-### [Project Chess](https://github.com/mayankSystems/project-chess) — Chess Engine in Java
+### [Project Chess](https://github.com/mayankSystems/projectchess) — Chess Engine in Java
 🏷️ *Java · Swing/AWT · OOP · Strategy / Factory / Observer Patterns · SOLID*
 
 Complete chess engine with GUI, full rule enforcement, and clean domain design.
